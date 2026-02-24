@@ -54,7 +54,7 @@ The project is built using pure Java without heavy external frameworks:
 ## How to Run
 
 ### Prerequisites
-* Java Development Kit (JDK) 8 or newer.
+* Java Development Kit (JDK) 17 or newer.
 
 ### Installation & Execution
 1. Clone the repository
